@@ -107,6 +107,62 @@ li {
   left: 280px;
 }
 
+#g-9 {
+  position: absolute;
+  top: 1550px;
+  left: 80px;
+}
+
+#g-10 {
+  position: absolute;
+  top: 1380px;
+  left: 380px;
+}
+
+
+#g-11 {
+  position: absolute;
+  top: 1380px;
+  left: 80px;
+}
+
+
+#g-12 {
+  position: absolute;
+  top: 1380px;
+  left: 680px;
+}
+
+
+#g-13 {
+  position: absolute;
+  top: 1550px;
+  left: 680px;
+}
+
+#g-14 {
+  position: absolute;
+  top: 1550px;
+  left: 380px;
+}
+
+#g-15 {
+  position: absolute;
+  top: 1550px;
+  left: 980px;
+}
+
+#g-16 {
+  position: absolute;
+  top: 1380px;
+  left: 980px;
+}
+
+.med img{
+  height: 200px;
+  width: 200px;
+}
+
 button {
   position: absolute;
   top: 820px;
@@ -152,8 +208,4 @@ hr {
   left: 200px;
   height: 50px;
   width: 50px;
-}
-
-#blDrg img{
-  
 }
