@@ -209,3 +209,21 @@ hr {
   height: 50px;
   width: 50px;
 }
+
+.jumbotron {
+  display: none;
+}
+
+.filler {
+  display: none;
+}
+
+.filler img {
+  height: 400px;
+  width: 400px;
+}
+
+#blDrg img{
+  height: 300px;
+  width: 300px;
+}
