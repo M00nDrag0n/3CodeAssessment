@@ -18,6 +18,17 @@ body {
   width: 350px;
 }
 
+#headerImg:hover img {
+  transform: rotate(45deg);
+
+}
+
+#headerImg:active img {
+  transform: rotate(245deg);
+
+}
+
+
 .header {
   text-align: left;
 }
@@ -31,6 +42,13 @@ body {
 
 li {
   padding-left: 10px;
+}
+
+#sure {
+  height: 200px;
+  width: 500px;
+  border-color: green;
+  background-color: yellow;
 }
 
 #about {
@@ -50,13 +68,26 @@ li {
 .left:hover img{
   transform: rotate(30deg);
 }
+.left:active img{
+  transform: rotate(300deg);
+  height: 154px;
+  width: 3000px;
+}
 
 .right:hover img{
   transform: rotate(330deg);
 }
+.right:active img{
+  transform: rotate(10deg);
+  height: 800px;
+  width: 300px;
 
-.middle:hover img{
-  transform: rotate(180deg);
+}
+
+.middle:active img{
+  transform: rotate(184deg);
+  height: 54px;
+  width: 300px;
 }
 
 #g-1 {
@@ -210,9 +241,6 @@ hr {
   width: 50px;
 }
 
-/* .jumbotron {
-  display: none;
-} */
 
 .filler {
   display: none;
@@ -228,4 +256,19 @@ hr {
 #blDrg img{
   height: 300px;
   width: 300px;
+}
+
+.hi {
+  display: none;
+}
+
+.hi img {
+  height: 200%;
+  width: 200%;
+}
+
+.hi:hover img {
+  height: 2000px;
+  width: 200px;
+
 }
