@@ -17,8 +17,3 @@ li {
   border-style: solid;
   border-color: black;
 }
-
-.done {
-  text-decoration: line-through;
-  color: #d9d9d9;
-}
