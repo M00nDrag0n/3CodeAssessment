@@ -43,20 +43,20 @@ li {
   border-width: 20px;
 }
 .dance img{
-    height: 50px;
-    width: 50px;
+    height: 100px;
+    width: 100px;
 }
 
-.left {
-
+.left:hover img{
+  transform: rotate(30deg);
 }
 
-.right {
-
+.right:hover img{
+  transform: rotate(330deg);
 }
 
-.middle {
-
+.middle:hover img{
+  transform: rotate(180deg);
 }
 
 #g-1 {
@@ -67,12 +67,44 @@ li {
 #g-2 {
   position: absolute;
   top: 850px;
+  left: 100px;
 
 }
 
 #g-3 {
   position: absolute;
   top: 850px;
+  left: 180px;
+}
+
+#g-4 {
+  position: absolute;
+  top: 850px;
+  left: 680px;
+}
+
+#g-5 {
+  position: absolute;
+  top: 850px;
+  left: 800px;
+}
+
+#g-6 {
+  position: absolute;
+  top: 850px;
+  left: 950px;
+}
+
+#g-7 {
+  position: absolute;
+  top: 850px;
+  left: 1080px;
+}
+
+#g-8 {
+  position: absolute;
+  top: 850px;
+  left: 280px;
 }
 
 button {
@@ -94,7 +126,16 @@ hr {
 .productiveFunctions {
   font-family: 'Berkshire Swash';
   font-size: 19px;
+  float: left;
+  width: 30%;
 }
+
+.font {
+  font-family: 'Berkshire Swash';
+  font-size: 40px;
+}
+
+
 
 #keychain img{
   position: absolute;
@@ -111,4 +152,8 @@ hr {
   left: 200px;
   height: 50px;
   width: 50px;
+}
+
+#blDrg img{
+  
 }
