@@ -42,12 +42,53 @@ li {
   border-style: solid;
   border-width: 20px;
 }
+.dance img{
+    height: 50px;
+    width: 50px;
+}
+
+.left {
+
+}
+
+.right {
+
+}
+
+.middle {
+
+}
+
+#g-1 {
+  position: absolute;
+  top: 850px;
+}
+
+#g-2 {
+  position: absolute;
+  top: 850px;
+
+}
+
+#g-3 {
+  position: absolute;
+  top: 850px;
+}
+
+button {
+  position: absolute;
+  top: 820px;
+  right: 660px;
+  height: 100px;
+  width: 200px;
+}
 
 hr {
   color: black;
   background-color: black;
   border-color: black;
-  margin-top: 700px;
+  border-width: 20px;
+  margin-top: 750px;
 }
 
 #keychain img{
