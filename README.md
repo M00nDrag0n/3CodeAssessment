@@ -18,7 +18,7 @@ _This is a way to track my own progress over the course of my own coding history
 
 ## Setup/Installation Requirements
 
-* _Copy this link [ https://m00ndrag0n.github.io/F-T-Assessment/ ] and paste it into your browser. _
+* _Copy this link [  ] and paste it into your browser. _
 * _Fill in small forms for fun!_
 
 
