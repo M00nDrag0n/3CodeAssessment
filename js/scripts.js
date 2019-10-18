@@ -1,7 +1,7 @@
 $(document).ready(function() {
   $(".poke").click(function(event) {
     $(".content").hide();
-    $(".jumbotron").show();
+    // $(".jumbotron").show();
     $(".filler").show();
   });
 });
