@@ -216,6 +216,8 @@ hr {
 
 .filler {
   display: none;
+  float: right;
+  width: 20%;
 }
 
 .filler img {
