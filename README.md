@@ -18,8 +18,8 @@ _This is a way to track my own progress over the course of my own coding history
 
 ## Setup/Installation Requirements
 
-* _Copy this link [  ] and paste it into your browser. _
-* _Fill in small forms for fun!_
+* _Copy this link [ https://m00ndrag0n.github.io/3CodeAssessment/ ] and paste it into your browser. _
+* _Click around for fun!_
 
 
 _No additional servers are needed._
@@ -30,7 +30,7 @@ _There are no known bugs in this program._
 
 ## Support and contact details
 
-_If you are experiencing issues, contact me at 123@example.com_
+_If you are experiencing issues, contact me at anise.i.lester@gmail.com_
 
 ## Technologies Used
 
