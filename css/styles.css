@@ -42,3 +42,27 @@ li {
   border-style: solid;
   border-width: 20px;
 }
+
+hr {
+  color: black;
+  background-color: black;
+  border-color: black;
+  margin-top: 700px;
+}
+
+#keychain img{
+  position: absolute;
+  top: 228px;
+  left: 240px;
+  height: 50px;
+  width: 50px;
+  transform: rotate(20deg);
+}
+
+#shoelace img{
+  position: absolute;
+  top: 130px;
+  left: 200px;
+  height: 50px;
+  width: 50px;
+}
