@@ -85,9 +85,15 @@ li {
 }
 
 .middle:active img{
-  transform: rotate(184deg);
+  transform: rotate(174deg);
   height: 54px;
-  width: 300px;
+  width: 299px;
+}
+
+.middle:hover img{
+  transform: rotate(10deg);
+  height: 154px;
+  width: 209px;
 }
 
 #g-1 {
